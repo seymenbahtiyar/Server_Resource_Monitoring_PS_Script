@@ -15,7 +15,7 @@ To use this script, copy the code into a PowerShell script file with a .ps1 exte
 
 Note: The script will not automatically refresh the performance information. To get updated information, the script needs to be run again.
 
-The program will output the following information for the specified server:
+The script will output the following information for the specified server:
 
 - Memory usage (used, free, total, and percentage usage)
 - C drive usage (used, free, total, and percentage usage)
